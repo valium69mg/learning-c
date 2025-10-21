@@ -1,1 +1,1 @@
-Currently at book The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie, page: 39
+Currently at book The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie, page: 44
